@@ -5,6 +5,9 @@ Corso di Laurea in Ingegneria Informatica**
 
 Gianni Moretti, Francesco Fantechi, Francesco Bettazzi
 
+https://github.com/GianniMoretti
+https://github.com/FrancescoBettazzi
+
 Motivazione e Descrizione
 =========================
 
