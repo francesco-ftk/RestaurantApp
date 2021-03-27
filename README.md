@@ -3,6 +3,8 @@
 Facolta di Ingegneria\
 Corso di Laurea in Ingegneria Informatica**
 
+Gianni Moretti, Francesco Fantechi, Francesco Bettazzi
+
 Motivazione e Descrizione
 =========================
 
